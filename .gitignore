@@ -7,3 +7,5 @@ dist
 build
 *.icns
 *.ini
+.idea
+*.xml
